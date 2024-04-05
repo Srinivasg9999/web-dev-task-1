@@ -1,0 +1,57 @@
+#Mention id or email id : Srinivas Gali
+#Task Tittle : Responsive Company Member Team Page
+#Task Description : This HTML document creates a webpage for a fictional company named "SOLARA IT SOFTWARE COMPANY". 
+		    It includes sections for the company's leadership/management team, development team, and sales and 
+		    marketing team, with each team member represented by a card containing their image, name, and role 
+		    within the company. Additionally, there are styling elements for various components such as headers, paragraphs, and team member cards.
+#Steps Taken :The steps taken to create this responsive company member team page:
+
+	1. **HTML Structure**:
+		- Defined the basic HTML structure with the `<!DOCTYPE html>` declaration, `<html>`, `<head>`, and `<body>` tags.
+		- Added meta tags for character set and viewport settings to ensure proper rendering across devices.
+		- Provided a title for the page within the `<title>` tag.
+
+	2. **Global Styles**:
+		- Reset the default margin, padding, and box-sizing using the universal selector `*`.
+		- Styled the body with a specific font family, background color, padding, and box shadow.
+		- Styled the `.container` class to set a maximum width, background color, border, margin, and box-shadow for the main content container.
+
+	3. **Header Styles**:
+		- Centered the content within the header using `text-align: center`.
+		- Styled the `<h1>` tag within the header with specific font size, margin, padding, color, background color, border-radius, and display as inline-block.
+
+	4. **Introduction Section Styles**:
+		- Added a welcome paragraph (`<p>`) with a unique class `.para` to define margin, font size, and font weight.
+		- Included a decorative horizontal line using a paragraph element with class `.p`.
+
+	5. **Team Section Styles**:
+		- Centered the heading "Meet Our Team" using margin and padding.
+		- Set up individual headers for each team section ("Leadership/Management Team", "Development Team", "Sales and Marketing Team").
+
+	6. **Team Member Card Styles**:
+		- Utilized Flexbox (`display: flex`) to create a responsive layout for team members.
+		- Styled individual team member cards with appropriate width, margin, padding, text-align, font sizes, and colors.
+		- Adjusted the width and border-radius of images to maintain consistency in the appearance of team member photos.
+
+	7. **Repeating Team Member Cards**:
+		- Duplicated the team member card structure for each team member, replacing placeholder names and roles with actual information.
+		- Inserted `<img>` tags with URLs of placeholder images for team members.
+		- Added `<h3>` and `<h4>` tags for team member names and positions, respectively.
+
+	8. **Additional Styling**:
+		- Added two additional `<div>` elements with classes `.box` and `.box1` for decorative purposes, positioned them using absolute positioning and specified styles for width, height, background color, margin, and alignment.
+
+	9. **Adding Additional Information**:
+		-Added to Company Name, Founders Names and Employees Names.
+
+	These steps collectively create a responsive company member team page with a structured layout, styled headers, introduction section, team member cards, and additional decorative elements.
+
+#Challenges Faced : 
+	**Less Challenges are facing, 
+	  >their are decorated part is facing one of the challenge.
+	  >one of them is In leadership / Management Team profiles orders not to the designed-1, this is one of the main challenges are i am faced. 
+#Solutions Implemented :
+	**In leadership / Management Team profiles implemented bye just normal i comfortable to the way as implemneted.
+#Learnings :
+	**I am already learning by the HTML and CSS, and this task improve my written the code in simple, easy to written the code, less time to taken to complete code.
+#project Update :Completed.
